@@ -1,0 +1,4 @@
+To collect all the static files
+        python manage.py collectstatic
+
+
