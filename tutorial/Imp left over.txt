@@ -1,0 +1,7 @@
+video 41 is important for run django development server - Alternatives
+
+
+link to this tutorials author docs and bugs related to this
+
+
+https://docs.maxgoodridge.com/bug-fixes/01-add-default-model-manager/
