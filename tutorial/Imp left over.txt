@@ -5,3 +5,9 @@ link to this tutorials author docs and bugs related to this
 
 
 https://docs.maxgoodridge.com/bug-fixes/01-add-default-model-manager/
+
+
+
+if error related to secret key comes run this command:-
+
+set DJANGO_SETTINGS_MODULE=tutorial.settings.dev
